@@ -10,7 +10,7 @@ For people who are just starting out on this path, we have written a basic calcu
 
 ## Photos for Application
 
-<img src="/assets/photo/Screenshot_1682027365.png" alt="Default Screen" title="Default Screen">
+<img src="/assets/photo/Screenshot_1682027365.png" alt="Default Screen" width="512" height="512" title="Default Screen">
 Simple screenshot of this screen calculator.
 <br>
 <img src="/assets/photo/Screenshot_1682027380.png" alt="Default Screen" title="Default Screen">
